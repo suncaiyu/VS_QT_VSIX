@@ -1,0 +1,1 @@
+# VS_QT_VSIX
